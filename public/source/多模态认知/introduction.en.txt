@@ -1,0 +1,1 @@
+This direction aims to build an embodied intelligence brain by fusing visual, language, and spatial perception, focusing on interaction-level 4D cognition in embodied scenarios. We target comprehensive semantic understanding of complex dynamic environments to enhance the cognition capability of embodied agents.

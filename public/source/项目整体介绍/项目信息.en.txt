@@ -1,0 +1,5 @@
+Title:
+Research on Fully-Conditional Controllable Hand-Object Interaction World Model
+
+Introduction:
+We focus on cognition, imagination, and skill within a spatial interaction intelligence framework, aiming to build a closed loop of human–machine–environment interaction and advance embodied agents toward unified knowing and acting. On the cognition level, we explore fundamental frameworks for world abstraction and compression to enable unified knowledge acquisition and evolution for spatial environments and human social interaction. On the imagination level, we study controllable paradigms of state transition and evolution to build knowledge-driven, fully conditional predictive models. On the skill level, we investigate the underlying mechanisms of embodied intent emergence and generate behaviors that are consistent in space and social context.
